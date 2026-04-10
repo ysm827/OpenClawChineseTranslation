@@ -23,7 +23,8 @@
       "wizard/onboarding-gateway-config.json",
       "wizard/security.json",
       "wizard/finalize.json",
-      "wizard/onboarding-finalize.json"
+      "wizard/onboarding-finalize.json",
+      "wizard/setup-plugin-config.json"
     ],
     "gateway": [
       "gateway/gateway-config-prompts.shared.json",
@@ -149,7 +150,8 @@
       "dashboard/login-gate.json",
       "dashboard/copy-as-markdown.json",
       "dashboard/speech.json",
-      "dashboard/app-render-helpers.json"
+      "dashboard/app-render-helpers.json",
+      "dashboard/dreaming-structured.json"
     ],
     "extensions": [
       "extensions/feishu.json",

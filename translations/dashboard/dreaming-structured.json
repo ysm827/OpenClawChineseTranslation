@@ -1,0 +1,19 @@
+{
+  "file": "ui/src/ui/views/dreaming.ts",
+  "description": "梦境系统 — 结构化日记面板标题 + 追踪元数据 (v2026.4.9)",
+  "replacements": {
+    ">What Happened</h3>": ">发生了什么</h3>",
+    ">Reflections</h3>": ">反思</h3>",
+    ">Candidates + Possible Lasting Updates</h3>": ">候选项 + 可能的持久更新</h3>",
+    "panel-subtitle\">Candidates</div>": "panel-subtitle\">候选项</div>",
+    "panel-subtitle\">Possible Lasting Updates</div>": "panel-subtitle\">可能的持久更新</div>",
+    "aria-label=\"Diary day browser\"": "aria-label=\"日记日期浏览器\"",
+    "aria-label=\"Diary activity map\"": "aria-label=\"日记活动热力图\"",
+    " signal${entry.totalSignalCount === 1 ? \"\" : \"s\"} before promote": " 个信号(提升前)",
+    " recall${entry.recallCount === 1 ? \"\" : \"s\"}": " 次召回",
+    " phase hit${entry.phaseHitCount === 1 ? \"\" : \"s\"}": " 次阶段命中",
+    " signal${entry.totalSignalCount === 1 ? \"\" : \"s\"}": " 个信号",
+    "dailyCount} daily": "dailyCount} 次每日",
+    "groundedCount} grounded": "groundedCount} 次落地"
+  }
+}
