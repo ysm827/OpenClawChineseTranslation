@@ -54,6 +54,7 @@
       "commands/helpers.json",
       "commands/doctor.json",
       "commands/doctor-health.json",
+      "commands/doctor-health-contributions.json",
       "commands/doctor-security.json",
       "commands/doctor-workspace-status.json",
       "commands/doctor-gateway-health.json",
