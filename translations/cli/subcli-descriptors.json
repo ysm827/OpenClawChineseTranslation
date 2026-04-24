@@ -21,7 +21,7 @@
     "description: \"Webhook helpers and integrations\"": "description: \"Webhook 工具与集成\"",
     "description: \"Legacy clawbot command aliases\"": "description: \"旧版 clawbot 命令别名\"",
     "description: \"Secure DM pairing (approve inbound requests)\"": "description: \"安全私信配对（审批入站请求）\"",
-    "description: \"Manage OpenClaw plugins and extensions\"": "description: \"管理 OpenClaw 插件和扩展\"",
+    "description: \"Manage OpenClaw plugins\"": "description: \"管理 OpenClaw 插件\"",
     "description: \"Manage connected chat channels (Telegram, Discord, etc.)\"": "description: \"管理已连接的聊天渠道（Telegram、Discord 等）\"",
     "description: \"Lookup contact and group IDs (self, peers, groups) for supported chat channels\"": "description: \"查询支持渠道的联系人和群组 ID\"",
     "description: \"Security tools and local config audits\"": "description: \"安全工具和本地配置审计\"",

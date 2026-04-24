@@ -9,7 +9,7 @@
     ".description(\"List models (configured by default)\")": ".description(\"列出模型 (默认已配置的)\")",
     "\"Show full model catalog\"": "\"显示完整模型目录\"",
     "\"Filter to local models\"": "\"仅显示本地模型\"",
-    "\"Filter by provider\"": "\"按提供商过滤\"",
+    "\"Filter by provider id\"": "\"按提供商 ID 过滤\"",
     "\"Plain line output\"": "\"纯文本行输出\"",
     ".description(\"Show configured model state\")": ".description(\"显示已配置的模型状态\")",
     "\"Exit non-zero if auth is expiring/expired (1=expired/missing, 2=expiring)\"": "\"如果认证即将过期/已过期则非零退出 (1=过期/缺失, 2=即将过期)\"",
