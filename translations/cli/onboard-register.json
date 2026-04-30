@@ -9,7 +9,7 @@
     ".option(\"--reset-scope <scope>\", \"Reset scope: config|config+creds+sessions|full\")": ".option(\"--reset-scope <scope>\", \"重置范围：config|config+creds+sessions|full\")",
     ".option(\"--non-interactive\", \"Run without prompts\", false)": ".option(\"--non-interactive\", \"无提示运行\", false)",
     "\"Acknowledge that agents are powerful and full system access is risky (required for --non-interactive)\"": "\"确认代理能力强大且完全系统访问存在风险（--non-interactive 时必需）\"",
-    ".option(\"--flow <flow>\", \"Onboard flow: quickstart|advanced|manual\")": ".option(\"--flow <flow>\", \"引导流程：quickstart|advanced|manual\")",
+    ".option(\"--flow <flow>\", \"Onboard flow: quickstart|advanced|manual|import\")": ".option(\"--flow <flow>\", \"引导流程：quickstart|advanced|manual|import\")",
     ".option(\"--mode <mode>\", \"Onboard mode: local|remote\")": ".option(\"--mode <mode>\", \"引导模式：local|remote\")",
     ".option(\"--auth-choice <choice>\", `Auth: ${AUTH_CHOICE_HELP}`)": ".option(\"--auth-choice <choice>\", `认证：${AUTH_CHOICE_HELP}`)",
     "\"Token provider id (non-interactive; used with --auth-choice token)\"": "\"令牌提供商 ID（非交互式；与 --auth-choice token 一起使用）\"",

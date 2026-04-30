@@ -151,7 +151,6 @@
       "dashboard/config-sections.json",
       "dashboard/config-appearance.json",
       "dashboard/slash-commands.json",
-      "dashboard/command-palette.json",
       "dashboard/slash-command-executor.json",
       "dashboard/grouped-render.json",
       "dashboard/copy-as-markdown.json",
